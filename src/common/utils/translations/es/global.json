@@ -1,0 +1,40 @@
+{
+    "title": {
+        "login": "Iniciar sesión",
+        "welcome": "Bienvenido",
+        "userList": "Lista de usuarios",
+        "pokemonList": "Lista de pokemon"
+    },
+
+    "label": {
+        "mail": "Correo",
+        "password": "Contraseña",
+        "itemsPerPagination": "Fila por página:"
+    },
+
+    "button": {
+        "login": "Iniciar sesión",
+        "LogOut": "Cerrar la sesión"
+    },
+
+    "menu": {
+        "home": "Inicio",
+        "user": "Usuarios",
+        "pokemon": "Pokemons"
+    },
+
+    "columnName": {
+        "firstLastNames": "Nombres y apellidos",
+        "email": "Correo",
+        "role": "Role",
+        "status": "Estado",
+        "namePokemon": "Nombre del pokemon"
+    },
+
+    "text": {
+        "admin": "Administrador",
+        "user": "usuario",
+        "sales": "Ventas",
+        "active": "Activo"
+    }
+}
